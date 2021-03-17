@@ -1,0 +1,33 @@
+IDVEN, NOMBRE VEN, COMISION VEND, IDPROD
+1,Alejando Ramirez,7.5,21
+2,Alejando Ramirez,7.5,21
+3,Alejando Ramirez,8.5,21
+3,Alejando Ramirez,7.5,21
+2,Alejando Ramirez,7.5,21
+2,Alejando Ramirez,3.5,21
+1,Alejando Ramirez,7.5,21
+3,Alejando Ramirez,7.5,21
+2,Alejando Ramirez,5.5,212,Maria Rodriguez,9.5,21
+1,Alejando Ramirez,27.8,20
+3,Miriam Flores,7.5,22
+3,Miriam Flores,14.600000000000001,2
+3,Miriam Flores,10.0,12
+2,Maria Rodriguez,10.0,12
+1,Alejando Ramirez,10.0,12
+2,Maria Rodriguez,24.3,3
+3,Miriam Flores,14.600000000000001,2
+2,Maria Rodriguez,10.0,12
+2,Maria Rodriguez,14.600000000000001,2
+1,Alejando Ramirez,18.900000000000002,1
+3,Miriam Flores,14.600000000000001,2
+2,Maria Rodriguez,7.5,22
+2,Maria Rodriguez,40.5,6
+2,Maria Rodriguez,14.600000000000001,2
+2,Maria Rodriguez,18.900000000000002,1
+2,Maria Rodriguez,14.600000000000001,2
+3,Miriam Flores,18.900000000000002,1
+2,Maria Rodriguez,15.3,16
+1,Alejando Ramirez,24.3,3
+2,Maria Rodriguez,14.600000000000001,2
+1,Alejando Ramirez,17.6,23
+4,Alejandra Garcia,14.600000000000001,2
